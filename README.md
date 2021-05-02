@@ -9,4 +9,4 @@
      * Email<br> amit230102@gmail.com
 
 - #### Connect with me
-[<img src='https://www.flaticon.com/free-icon/linkedin_174857' alt='linkedin' height='50'>](https://www.linkedin.com/in/amit-pandey-464b52199)
+  
