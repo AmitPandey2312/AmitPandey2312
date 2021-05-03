@@ -1,4 +1,4 @@
-- # 👋**Hey it's Amit here**
+- ## 👋**Hey it's Amit here**
 - 👀 **I’m interested in Web development and Android Development**
 - 🌱 **I’m currently learning DSA and Web development**
 - 💞️ **I’m looking to collaborate on Web development Projects**
